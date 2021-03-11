@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CMPINF0010-lab5
 ## Topic: Words light up your day
    Get the user's name.\
@@ -14,8 +13,7 @@
        5 - "Username, Have a nice day YAY"
        
    
-    
-=======
+
 # Inspire
 ​	An encouraging tool to light up your day.
 
@@ -62,4 +60,3 @@ Zhen Wu - zhw87@pitt.edu
 Xingjian Zhang - xiz201@pitt.edu
 
 Yuqing Zhang - yuz191@pitt.edu
->>>>>>> e28e0ab03b6fcb58eefbfab3186fa64b1f7777af
