@@ -1,4 +1,4 @@
-Copyright (C) 2021 [Zhen Wu - zhw87@pitt.edu] [Xingjian Zhang - xiz201@pitt.edu] [Yuqing Zhang - yuz191@pitt.edu]
+Copyright (C) 2021 [Zhen Wu - zhw87@pitt.edu] [Xingjian Zhang - xiz201@pitt.edu] [Yuqing Zhang - yuz191@pitt.edu] [Liying Qin - liq13@pitt.edu]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
