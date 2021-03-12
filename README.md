@@ -37,6 +37,14 @@ To contribute, please fork this repository and edit on your end. Then, you can s
 
 We welcome any suggestions!
 
+
+##Code of Conduct
+Our product is benefit for everyone to use! To get a better understand of our product please make sure that you are going through the license carefully! We are happyily to have feedbacks from you, and we will have our product improved if neccessary!
+
+
+##License
+License id already created and opened for everyone to go through! Please read it carefully so there is no trouble for you to continuely using our product!
+
 ## Group Members
 
 Zhen Wu - zhw87@pitt.edu
