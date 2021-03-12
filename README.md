@@ -39,7 +39,7 @@ We welcome any suggestions!
 
 
 ## Code of Conduct
-Our product is benefitial for everyone to use! To get a better understand of our product, please make sure that you are going through the license carefully! We are happy to have feedbacks from you, and we will have our product improved if neccessary!
+Our product is beneficial for everyone to use! To get a better understand of our product, please make sure that you are going through the license carefully! We are happy to have feedbacks from you, and we will have our product improved if neccessary!
 
 
 ## License
