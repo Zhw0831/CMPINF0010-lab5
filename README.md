@@ -44,3 +44,5 @@ Zhen Wu - zhw87@pitt.edu
 Xingjian Zhang - xiz201@pitt.edu
 
 Yuqing Zhang - yuz191@pitt.edu
+
+Liying Qin - liq13@pitt.edu
